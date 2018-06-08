@@ -1,11 +1,19 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "elfs"
 version = "0.1-3"
+-- LuaDist source
 source = {
-  url = "git://github.com/Xe/elfs.git"
+  tag = "0.1-3",
+  url = "git://github.com/LuaDist-testing/elfs.git"
 }
+-- Original source
+-- source = {
+--   url = "git://github.com/Xe/elfs.git"
+-- }
 
 description = {
-  summary = "ELF MONATAR GENERATOR",
+  summary = "ELF MONATAR GENERATER",
   detailed = [[
   A simple moonscript rock to generate names from Pokemon
   Vietnamese Crystal.
